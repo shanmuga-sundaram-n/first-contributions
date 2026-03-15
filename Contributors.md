@@ -1,8 +1,9 @@
 *# Contributors*
 
 !-- prettier-ignore-start -->
-- [Thura Hein](https://github.com/thurahein123)
 
+- [Thura Hein](https://github.com/thurahein123)
+- [Shanmuga Sundaram Natarajan](https://github.com/shanmuga-sundaram-n)
 * [Mark Tu](https://github.com/MarksTheme)
 
 - [Allan Moura](https://github.com/allansmora/)
